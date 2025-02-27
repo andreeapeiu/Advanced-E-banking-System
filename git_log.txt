@@ -1,0 +1,83 @@
+commit 683e1279aebb84ac78cfab4f9f56a898ce440770
+Author: Andreea <andreeapeiu@yahoo.com>
+Date:   Tue Jan 21 02:55:52 2025 +0200
+
+    done coding style 29p
+
+commit 3e9ede1a01b70eb44a98f9048a31190a68f5d229
+Author: Andreea <andreeapeiu@yahoo.com>
+Date:   Tue Jan 21 01:51:04 2025 +0200
+
+    niste coding style 29p
+
+commit a0a281c4c850dcf141382a3bcdeb7eb5cf2f6a74
+Author: Andreea <andreeapeiu@yahoo.com>
+Date:   Mon Jan 20 17:01:20 2025 +0200
+
+    tot 29p
+
+commit 57a43c2339f4c600fd49cbc153a27b43ed2b9527
+Author: Andreea <andreeapeiu@yahoo.com>
+Date:   Mon Jan 20 02:22:44 2025 +0200
+
+    29p
+
+commit 78fd78f597f4f84ddb98da6c3d037e0f0dba3b20
+Author: Andreea <andreeapeiu@yahoo.com>
+Date:   Sun Jan 19 02:25:26 2025 +0200
+
+    24p
+
+commit e61be86767bcb23d20d606f0c1ce1e50f2d4c056
+Author: Andreea <andreeapeiu@yahoo.com>
+Date:   Sun Jan 19 01:23:10 2025 +0200
+
+    21p
+
+commit bf7d7908a42623517b949a2408f6aa313af33832
+Author: Andreea <andreeapeiu@yahoo.com>
+Date:   Sat Jan 18 22:32:43 2025 +0200
+
+    18p
+
+commit b74a2284ebb9d9156b4aa28d6671a95d053b1f59
+Author: Andreea <andreeapeiu@yahoo.com>
+Date:   Sat Jan 18 16:32:15 2025 +0200
+
+    15p
+
+commit 4e022d74719a65562b0debbde40845a68bc81782
+Author: Andreea <andreeapeiu@yahoo.com>
+Date:   Sat Jan 18 14:53:05 2025 +0200
+
+    started custom split
+
+commit 75c82ad36dbd106e0596cff8ea447ffae4d23184
+Author: Andreea <andreeapeiu@yahoo.com>
+Date:   Thu Jan 16 23:37:26 2025 +0200
+
+    12p
+
+commit 5d775f1a4e09b2c01258e74036ca65068cc3c56e
+Author: Andreea <andreeapeiu@yahoo.com>
+Date:   Thu Jan 16 19:10:28 2025 +0200
+
+    10p
+
+commit f5e2c680e7b55b64a459449bb56c82043761ef3f
+Author: Andreea <andreeapeiu@yahoo.com>
+Date:   Tue Jan 14 01:14:14 2025 +0200
+
+    8p
+
+commit 711d41bdd7cabfce6725e880a57650fc5743d6da
+Author: Andreea <andreeapeiu@yahoo.com>
+Date:   Mon Jan 13 23:13:53 2025 +0200
+
+    6p
+
+commit ee6d1b125b63267fbb8bae161dff43b8c7e75337
+Author: Andreea <andreeapeiu@yahoo.com>
+Date:   Mon Jan 13 18:45:12 2025 +0200
+
+    init comit 2p
