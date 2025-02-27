@@ -26,7 +26,7 @@ The implemented system will enable the following:
 ## Running the Banking System
 
 Clone the repository: [GitHub Link](#)  
-(**https://github.com/andreeapeiu/tema3_poo.git**).  
+(**https://github.com/andreeapeiu/Advanced-E-banking-System**).  
 Execute `Main.java` to start the banking simulation.
 
 ## Project Structure
